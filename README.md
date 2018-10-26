@@ -12,7 +12,8 @@
 4. 不用的文件，及时删除 
 
 ## 引用方式  
-> https://raw.githubusercontent.com/用户名/仓库名称/分支名称/资源所在项目目录/资源名称  
-如：
-https://raw.githubusercontent.com/andaren/static/master/image/jpg/spring-cloud%E9%A1%B9%E7%9B%AE%E5%AE%89%E5%85%A8-2.jpg
+> https://raw.githubusercontent.com/用户名/仓库名称/分支名称/资源所在项目目录/资源名称 
+
+如：  
+https://raw.githubusercontent.com/andaren/static/master/image/jpg/spring-cloud%E9%A1%B9%E7%9B%AE%E5%AE%89%E5%85%A8-2.jpg  
 为引用本项目路径中/image/jpg下的一张图片。
